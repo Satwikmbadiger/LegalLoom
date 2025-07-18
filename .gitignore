@@ -1,1 +1,5 @@
 venv
+.env
+knowledge.txt
+__pycache__
+test_data/
